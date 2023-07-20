@@ -1,4 +1,4 @@
-<!-- # testing
+testing
 Unit tests:
 
 Multiplication
@@ -31,5 +31,5 @@ When a user is signed into their account, prompt if they want to use saved card
 If the user tries to sign in and puts in the wrong username or password, display username/password message with a reset link
 If the user tries to sign in without a password, display a message asking for password
 If the user tries to sign in without a username, display a message asking for username
-If the payment information (zip code/ address) is incorrect or cannot be verified, display error message asking to re-enter
+If the payment information (zip code/address) is incorrect or cannot be verified, display error message asking to re-enter
 If the user enters a coupon code, verify  -->
